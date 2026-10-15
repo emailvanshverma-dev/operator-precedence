@@ -1,0 +1,17 @@
+v = 4
+w = 5
+x = 8
+y = 2
+z = 0
+z = (v+w) * x / y;
+print ( "Value of (v+w) * x/ y is " , z )
+
+
+
+name = "Vansh"
+age = 10
+
+if name == "Vansh" or name == "Alex" and age >= 5 :
+    print ("Hello! Welcome. ")
+else : 
+ print ("Good Bye!! ")
